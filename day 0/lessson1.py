@@ -23,12 +23,14 @@ left(90)
 #draw a door
 forward(70)
 color("yellow")
+begin_fill()
 left(90)
 forward(120)   #height of door
 right(90)
 forward(60)
 right(90)
 forward(120)
+end_fill()
 
 #end of door
 
