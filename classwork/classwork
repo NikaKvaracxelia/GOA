@@ -21,3 +21,4 @@ print(type("nika"))
 
 #algorithm (ინსტრუქციებთა ერთობლიობა)
 
+print("join goa ")
